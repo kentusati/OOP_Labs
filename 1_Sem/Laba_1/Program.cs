@@ -286,7 +286,8 @@ namespace Laba_1
                 {
                     void functionUnChecked()
                     {
-                        int i = (int)2147483648;
+                        int i = (int)21474823648;
+                        Console.WriteLine("\n"+i);
                     }
                     functionUnChecked();
                 }
