@@ -85,8 +85,7 @@ namespace Laba_1
                 }
                 catch
                 {
-                    Console.WriteLine("если false, то не может быть Value " +
-                                      "проверено try/catch");
+                    Console.WriteLine("если HasValue=false, то не может иметь Value ");
                 }
                 i = 5;
                 Console.WriteLine($"i.HasValue={i.HasValue}");
@@ -237,7 +236,7 @@ namespace Laba_1
 
                 //---------------------b-----------------------
                 Console.WriteLine(Cort1+"\n");
-
+                
                 Console.Write($"{Cort1.Item4} ");
                 Console.Write($"{Cort1.Item2} \n");
 
@@ -278,7 +277,7 @@ namespace Laba_1
                 {
                     void functionChecked()
                     {
-                            //int i = (int)2147483648;
+                            //int i = (int)21474283648;
                     }
                     functionChecked();
                 }
@@ -301,7 +300,7 @@ namespace Laba_1
             firstE();
             secondA();
             secondB();
-            secondC(); //???
+            secondC();
             secondD();
             thirdA();
             thirdB();

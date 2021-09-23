@@ -1,0 +1,13 @@
+D:\Учеба\2kurs\OOP\Laba_2\bin\Debug\netcoreapp3.1\Laba_2.exe
+D:\Учеба\2kurs\OOP\Laba_2\bin\Debug\netcoreapp3.1\Laba_2.deps.json
+D:\Учеба\2kurs\OOP\Laba_2\bin\Debug\netcoreapp3.1\Laba_2.runtimeconfig.json
+D:\Учеба\2kurs\OOP\Laba_2\bin\Debug\netcoreapp3.1\Laba_2.runtimeconfig.dev.json
+D:\Учеба\2kurs\OOP\Laba_2\bin\Debug\netcoreapp3.1\Laba_2.dll
+D:\Учеба\2kurs\OOP\Laba_2\bin\Debug\netcoreapp3.1\Laba_2.pdb
+D:\Учеба\2kurs\OOP\Laba_2\obj\Debug\netcoreapp3.1\Laba_2.csprojAssemblyReference.cache
+D:\Учеба\2kurs\OOP\Laba_2\obj\Debug\netcoreapp3.1\Laba_2.AssemblyInfoInputs.cache
+D:\Учеба\2kurs\OOP\Laba_2\obj\Debug\netcoreapp3.1\Laba_2.AssemblyInfo.cs
+D:\Учеба\2kurs\OOP\Laba_2\obj\Debug\netcoreapp3.1\Laba_2.csproj.CoreCompileInputs.cache
+D:\Учеба\2kurs\OOP\Laba_2\obj\Debug\netcoreapp3.1\Laba_2.dll
+D:\Учеба\2kurs\OOP\Laba_2\obj\Debug\netcoreapp3.1\Laba_2.pdb
+D:\Учеба\2kurs\OOP\Laba_2\obj\Debug\netcoreapp3.1\Laba_2.genruntimeconfig.cache
